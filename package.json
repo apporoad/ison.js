@@ -1,0 +1,30 @@
+{
+  "name": "ison.js",
+  "version": "1.0.0",
+  "description": "intent json",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apporoad/ison.js.git"
+  },
+  "keywords": [
+    "json",
+    "intent"
+  ],
+  "author": "apporoad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apporoad/ison.js/issues"
+  },
+  "homepage": "https://github.com/apporoad/ison.js#readme",
+  "dependencies": {
+    "ilink.js": "^1.1.2",
+    "lustjson.js": "^1.0.1"
+  }
+}
